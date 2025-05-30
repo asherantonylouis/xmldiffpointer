@@ -1,4 +1,4 @@
-#xmldiffpointer
+<p xmldiffpointer />
 
 xmldiffpointer is a Python script designed to compare XML data from two MySQL tables — one from a legacy WebSphere Commerce (WCS) system and the other from a new Microservice-based system. Its purpose is to validate functional parity by identifying differences in structure and content between the two XML outputs.
 
