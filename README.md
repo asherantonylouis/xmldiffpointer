@@ -20,6 +20,7 @@ Differences in text content
 ✅ Outputs results to a CSV file (order_comapare_xml_differences.csv)
 
 🛠️ How It Works
+
 Data Retrieval
 Reads order ID pairs from orders_to_compare.csv, then fetches the XML for each order ID from a single orders table (with rows representing both WCS and Microservice orders).
 
